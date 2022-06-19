@@ -1,5 +1,7 @@
 # infinity-scroll
 
+Application uses Javascript to provide infinite scrolling when looking at pictures.
+
 ## Resources
 
 [Loaders SVG](https://loading.io/)
